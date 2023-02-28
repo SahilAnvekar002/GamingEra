@@ -34,7 +34,7 @@ window.addEventListener('resize', function (){
         navbar2.style.display = 'none';
         navbarDiv.style.opacity = '0';
         navbarDiv.style.visibility = 'hidden';
-        navbarDiv.style.transform = "translateX(150px)";
+        navbarDiv.style.transform = "translateX(160px)";
         close.style.display = 'none';
         hambugger.style.display = 'flex';
     }
@@ -48,7 +48,7 @@ hambugger.addEventListener('click', function(){
     close.style.display = 'flex'; 
     navbarDiv.style.opacity = "1";
     navbarDiv.style.visibility = "visible";
-    navbarDiv.style.transform = "translateX(-150px)";
+    navbarDiv.style.transform = "translateX(-160px)";
     navbarDiv.style.transition = "all 0.4s ease-in-out";
     //navbarDiv.style.display = 'flex';
     hambugger.style.display = 'none';
@@ -58,7 +58,7 @@ close.addEventListener('click', function(){
     close.style.display = 'none'; 
     navbarDiv.style.opacity = "0";
     navbarDiv.style.visibility = "hidden";
-    navbarDiv.style.transform = "translateX(150px)";
+    navbarDiv.style.transform = "translateX(160px)";
     navbarDiv.style.transition = "all 0.4s ease-in-out";
     //navbarDiv.style.display = 'none';
     hambugger.style.display = 'flex';

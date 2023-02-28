@@ -8,9 +8,9 @@
     display: flex;
     position: fixed;
     top: 0;
-    right: -150px;
+    right: -160px;
     height: 40vh;
-    width: 25vw;
+    width: 160px;
     background-color: rgb(35 34 38 / 75%);
     justify-content: start;
     align-items: center;
@@ -350,6 +350,12 @@ footer span{
 
 @media (max-width: 500px){
     .e{
-        left: 18%;
+        left: 16%;
+    }
+}
+
+@media (max-width: 400px){
+    .e{
+        left: 10%;
     }
 }
