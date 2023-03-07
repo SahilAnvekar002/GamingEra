@@ -165,13 +165,13 @@
 #home .container h1, .homeContainer h1 {
     font-size: 3.5rem;
     color: white;
-    font-family: 'Tilt Prism', cursive;
+    /*font-family: 'Tilt Prism', cursive;*/
 }
 
 #home .container span, .homeContainer span{
     font-size: 1.7rem;
     color: white;
-    font-family: 'Shantell Sans', cursive;
+    /*font-family: 'Shantell Sans', cursive;*/
     margin-left: 20px;
     margin-top: 20px;
 }
