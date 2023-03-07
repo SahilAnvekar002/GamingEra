@@ -319,7 +319,13 @@ footer span{
         left: 21%;
     }
     #home .bg{
-        background: url('./media/bg.jpg')no-repeat center right/cover;
+        background: url('./media/bg2.webp')no-repeat center right/cover;
+    }
+    .homeContainer h1{
+        color: black;
+    }
+    .container2 span{
+        color: black;
     }
 }
 
