@@ -291,13 +291,11 @@ footer span{
     .homeContainer h1 {
         font-size: 3rem;
         color: white;
-        font-family: 'Tilt Prism', cursive;
     }
     
     .homeContainer span{
         font-size: 1.5rem;
         color: white;
-        font-family: 'Shantell Sans', cursive;
         margin-left: 20px;
         margin-top: 20px;
     }
@@ -325,13 +323,11 @@ footer span{
     .homeContainer h1 {
         font-size: 2.5rem;
         color: white;
-        font-family: 'Tilt Prism', cursive;
     }
     
     .homeContainer span{
         font-size: 1.3rem;
         color: white;
-        font-family: 'Shantell Sans', cursive;
         margin-left: 20px;
         margin-top: 20px;
     }
